@@ -1,3 +1,3 @@
 # RISC-V-PIPELINE
-The 4 - Stage pipeline of RISC-V Core which supports RV32I Base instruction set 
+The pipeline of RISC-V Core which supports RV32I Base instruction set 
 Each piepline is coded using TL-Verilog on Makerchip IDE platform
